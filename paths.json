@@ -1,0 +1,10 @@
+{
+  "mappings": [
+    "/content/uni-biolercode/:/",
+    "/content/dam/uni-biolercode/:/assets/"
+  ],
+  "includes": [
+    "/content/uni-biolercode/",
+    "/content/dam/uni-biolercode/"
+  ]
+}
